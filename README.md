@@ -2,7 +2,7 @@
 Database created with Python and MySQL containing information on each player on the Washington Wizard's Roster. Information contained ranges from first name, last name, age, salary, total years professional, height in inches, weight, and position.
 
 
-In order to view the database, the following code was used.
+In order to view the database, the following code was used in MySQL.
 
 SELECT *
 
